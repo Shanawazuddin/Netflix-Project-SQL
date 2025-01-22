@@ -1,7 +1,7 @@
+# Netflix SQL Analysis Project
+
 ![Netflix Logo](![logo](https://github.com/user-attachments/assets/a1601c51-35b4-411e-a27f-94a3ff605b46))
 
-
-# Netflix SQL Analysis Project
 
 ## Project Overview
 This project explores Netflix content using SQL, focusing on trends, genres, ratings, and regional content distribution. The dataset provides insights into movies and TV shows globally.
