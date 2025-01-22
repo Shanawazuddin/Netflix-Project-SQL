@@ -1,3 +1,8 @@
+
+[](![logo](https://github.com/user-attachments/assets/a1601c51-35b4-411e-a27f-94a3ff605b46)
+)
+
+
 # Netflix SQL Analysis Project
 
 ## Project Overview
